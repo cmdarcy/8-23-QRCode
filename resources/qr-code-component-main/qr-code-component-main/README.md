@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -23,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/cmdarcy/8-23-QRCode/tree/main/resources/qr-code-component-main/qr-code-component-main)
+- Live Site URL: [Add live site URL here](https://cmdarcy.github.io/8-23-QRCode/)
 
 ## My process
 
@@ -34,6 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
+- Git version control
 
 
 
@@ -55,7 +53,7 @@ To see how you can add code snippets, see below:
 
 ## Author
 
-- Website - [Christopher d'Arcy](https://www.your-site.com)
+- Website - [Christopher d'Arcy](https://cmdarcy.github.io/portfolio_website/)
 - Frontend Mentor - [@cmdarcy](https://www.frontendmentor.io/profile/cmdarcy)
 
 
