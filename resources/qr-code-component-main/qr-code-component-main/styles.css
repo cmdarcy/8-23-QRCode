@@ -1,0 +1,59 @@
+/* Universal */
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.curved {
+    border-radius: 15px;
+}
+
+.centeredText {
+    text-align: center;
+}
+
+.darkBlue {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+}
+
+.grayBlue {
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
+}
+
+p {
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding: 20px 0;
+}
+
+#content-box {
+    background-color: white;
+    width: 80%;
+    height: auto;
+    margin: 10% auto;
+}
+
+@media screen and (min-width: 800px) {
+    #content-box {
+        width: 30%;
+    }    
+}
+
+img {
+    width: 80%;
+    height: auto;
+    margin-top: 10%;
+}
+
+.img-container {
+    display: flex ;
+    justify-content: center;
+}
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
